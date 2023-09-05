@@ -18,6 +18,8 @@ The TTL signal from the camera is supplied with a 5V DC power supply that is sep
 
 NOTE: The analog TTL voltage received by the NIDAQ is slightly variable from day to day -- this is a property of the Basler camera that cannot be circumvented, to our knowledge. We set a threshold around 2.5V to detect the TTLs using [CatGT](https://billkarsh.github.io/SpikeGLX/help/dmx_vs_gbl/dmx_vs_gbl/).
 
+For questions, please open an issue.
+
 ### Wiring information for the Hirose cable
 
 | Pin Number	| Wire Color | Function |
@@ -28,5 +30,4 @@ NOTE: The analog TTL voltage received by the NIDAQ is slightly variable from day
 | 4	 | Yellow |	Opto-isolated OUT (Out1) |
 | 5 |	Gray |	Opto-isolated I/O Ground |
 | 6	| White |	Camera Power Ground |
-
 
