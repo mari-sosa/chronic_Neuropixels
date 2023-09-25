@@ -3,7 +3,7 @@ Setup documentation for syncing chronic Neuropixels recordings with video
 
 ## Specifications
 
-The included wiring diagrams and photo apply to the following hardware/software:
+The included [wiring diagram][TTL_wiring_diagram] and [photo][TTL_photo] of the TTL circuit apply to the following hardware/software:
 
 Camera: [Basler acA780-75gc (CS-mount)](https://www.edmundoptics.com/p/basler-ace-aca780-75gc-color-gige-camera/29513/)  \
 I/O cable: [Basler gray Power-I/O Hirose cable (HRS 6P/OPEN)](https://docs.baslerweb.com/basler-power-io-cable-hrs-6p-open-twisted-p)  \
@@ -28,6 +28,9 @@ For questions, please open an issue.
 | 4	 | Yellow |	Opto-isolated OUT (Out1) |
 | 5 |	Gray |	Opto-isolated I/O Ground |
 | 6	| White |	Camera Power Ground |
+
+[TTL_wiring_diagram]: https://github.com/mari-sosa/chronic_Neuropixels/blob/main/Docs/camera_TTL_circuit_updated.jpg
+[TTL_photo]: https://github.com/mari-sosa/chronic_Neuropixels/blob/main/Docs/camera_TTL_photo_labeled.jpg
 
 ## Acknowledgement
 If the information provided here is useful to you, we would greatly appreciate it if you could "star" this repo. Thank you!
