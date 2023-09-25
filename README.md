@@ -30,5 +30,6 @@ For questions, please open an issue.
 | 6	| White |	Camera Power Ground |
 
 ## Acknowledgement
+If the information provided here is useful to you, we would greatly appreciate it if you could "star" this repo. Thank you!
 
-This system is used for acquisition of neural, behavioral, and video data from freely moving animals with chronic Neuropixels implants in Lisa Giocomo's lab at Stanford University. Setup and troubleshooting were performed by Marielena Sosa and Tucker Fisher.
+Setup and troubleshooting were performed by Marielena Sosa and Tucker Fisher. Documentation included here was written by Marielena Sosa. This system is used for acquisition of neural, behavioral, and video data from freely moving animals with chronic Neuropixels implants in Lisa Giocomo's lab at Stanford University. 
